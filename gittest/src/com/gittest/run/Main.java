@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		new GitController().test();
+		System.out.println("이야~~~");
 
 	}
 
